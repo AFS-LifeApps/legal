@@ -1,6 +1,6 @@
 # Terms of Use - Vacation Extender
 
-**Last updated:** December 29, 2024
+**Last updated:** January 16, 2026
 
 By downloading or using the **Vacation Extender** application (the "App"), offered by **AFS LifeApps**, you agree to these terms.
 
@@ -16,5 +16,10 @@ Vacation Extender is an auxiliary tool for vacation **planning**, suggesting dat
 ## 3. Intellectual Property
 The source code and the AFS LifeApps brand are the property of the developer. Unauthorized copying is prohibited.
 
-## 4. Contact
+## 4. Advertising
+To keep the service free, the App displays advertisements provided by the **Google AdMob** network.
+* **Third-Party Content:** AFS LifeApps does not control, endorse, or assume responsibility for the content, products, or services displayed in advertisements.
+* **Data Collection:** Google may use your device's advertising identifiers to personalize the ads displayed, in accordance with Google's privacy policies.
+
+## 5. Contact
 For support: afs.life.apps@gmail.com
